@@ -1,5 +1,6 @@
 colorectal_cancer_prediction.egg-info
 venv/
+mlruns/
 logs/
 .env/
 env/
@@ -16,3 +17,4 @@ Thumbs.db
 .idea/
 # Ignore processed data artifacts (if not needed in repo)
 artifacts/processed/*.pkl
+artifacts/
