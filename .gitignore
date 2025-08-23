@@ -1,3 +1,18 @@
 colorectal_cancer_prediction.egg-info
 venv/
 logs/
+.env/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Ignore processed data artifacts (if not needed in repo)
+artifacts/processed/*.pkl
